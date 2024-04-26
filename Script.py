@@ -201,15 +201,12 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """
-<b>🔖[ @INDORECINEMAS5 ] : </b> <code>{file_name}</code>
-
-=========== • ✠ • ===========
+    CAPTION = """<b>🔖[ @INDORECINEMAS5 ] : </b> <code>{file_name}</code>
 
 [ @INDORECINEMAS5 ] #𝙉𝙤𝟏  𝙈𝙤𝙫𝙞𝙚𝙨  𝘼𝙣𝙙  𝙒𝙚𝙗  𝙎𝙚𝙧𝙞𝙚𝙨  𝘾𝙝𝙖𝙣𝙣𝙚𝙡.🔖
 
 ⏤͟͞𝙅𝙊𝙄𝙉 : <a href='https://t.me/INDORECINEMAS5'>ɪɴᴅᴏʀᴇ ᴄɪɴᴇᴍᴀꜱ</a></b>"""
-=========== • ✠ • ===========</b>"""
+
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
