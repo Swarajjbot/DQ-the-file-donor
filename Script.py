@@ -201,7 +201,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>[ @INDORECINEMAS5 ] : </b> <code>{file_name}</code>
+    CAPTION = """<b>[ @INDORECINEMAS5 ] : </b> {file_name}
 
     #𝙄𝘿𝙍𝘾𝙞𝙣𝙚𝙢𝙖𝙨
 
