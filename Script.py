@@ -203,6 +203,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>[ @INDORECINEMAS5 ] : </b> <code>{file_name}</code>
 
+    #𝙄𝘿𝙍𝘾𝙞𝙣𝙚𝙢𝙖𝙨
+
 𝖩𝗈𝗂𝗇➥ : <a href='https://t.me/INDORECINEMAS5'>「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙄𝙉𝙀𝙈𝘼𝙎」</a></b>"""
 
 
