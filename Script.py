@@ -201,15 +201,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """def generate_quote(caption):
-    # Assuming caption is a string extracted from a file
-    quoted_caption = f'"{caption}"'
-    return quoted_caption
-
-# Example usage:
-file_caption = "Example file caption"
-quoted_caption = generate_quote(file_caption)
-print(quoted_caption)  # Output: "Example file caption"<b>[ @INDORECINEMAS5 ] : </b> <code>{file_name}</code>
+    CAPTION = """<b>[ @INDORECINEMAS5 ] : </b> <code>{file_name}</code>
 
 𝖩𝗈𝗂𝗇➥ : <a href='https://t.me/INDORECINEMAS5'>「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙄𝙉𝙀𝙈𝘼𝙎」</a></b>"""
 
