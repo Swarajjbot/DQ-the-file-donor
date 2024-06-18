@@ -119,29 +119,3 @@ class Bot(Client):
 
 app = Bot()
 app.run()
-
-from telegram import Update
-from telegram.ext import Updater, MessageHandler, Filters, CallbackContext
-
-def handle_file(update: Update, context: CallbackContext):
-    message = update.message
-    if message.document:
-        caption = message.caption
-        if caption:
-            quoted_caption = f'\"{caption}\"'
-            context.bot.send_message(chat_id=update.effective_chat.id, text=quoted_caption)
-        else:
-            context.bot.send_message(chat_id=update.effective_chat.id, text="No caption found.")
-
-def main():
-    TOKEN = 'YOUR_BOT_TOKEN_HERE'
-    updater = Updater(TOKEN, use_context=True)
-
-    dp = updater.dispatcher
-    dp.add_handler(MessageHandler(Filters.document, handle_file))
-
-    updater.start_polling()
-    updater.idle()
-
-if __name__ == '__main__':
-    main()
