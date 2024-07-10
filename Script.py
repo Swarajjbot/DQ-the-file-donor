@@ -204,6 +204,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<b>[ @INDORECINEMAS5 ] : </b> <code>{file_name}</code>
 
 「 ⚜️@INDORECINEMAS5⚜️ 」
+「 ⚜️@INDORECINEMAS5⚜️ 」
 
 𝖩𝗈𝗂𝗇➥ : <a href='https://t.me/INDORECINEMAS5'>「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙄𝙉𝙀𝙈𝘼𝙎」</a></b>"""
 
