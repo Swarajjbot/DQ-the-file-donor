@@ -203,11 +203,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """ 📂 <i><a href="https://t.me/INDORECINEMAS5">{file_name}</a></i>\n\n"""
 
-「 ⚜️@INDORECINEMAS5⚜️ 」
-「 ⚜️@INDORECINEMAS5⚜️ 」
-
-𝖩𝗈𝗂𝗇➥ : """<i><a href="https://t.me/INDORECINEMAS5"></a>「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙄𝙉𝙀𝙈𝘼𝙎」</i>\n\n""" 
-
+𝖩𝗈𝗂𝗇➥ : 「@INDORECINEMAS5」
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
